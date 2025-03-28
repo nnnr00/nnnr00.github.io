@@ -1,0 +1,5 @@
+admin:
+    name: hexo
+    password: hey
+    secret: hey hexo
+    expire: 60*1
